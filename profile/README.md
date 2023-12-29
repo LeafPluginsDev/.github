@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👩‍💻 Equipe de Desenvolvimento
+Todos os direitos reservados a LeafPlugins.
+- Lider de Desenvolvimento: [@fleivinho](https://github.com/fleivinho)
 
 <!--
 
